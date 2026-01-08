@@ -8,4 +8,4 @@ Most of my internships have been backend-focused, and most recently I've been wo
 
 ### Want to see more?
 
-I've got a few more projects I could share if you're interested.  If you're a recruiter or just curious about my work, feel free to contact me — I can always publish a few more of my projects if you need more insight.
+I've got a few more projects I could share if you're interested.  If you're a recruiter or just curious about my work, feel free to contact me, I can always publish a few more of my projects if you need more insight.
