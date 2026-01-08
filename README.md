@@ -2,7 +2,7 @@
 
 I'm a backend developer by trade and a full-stack developer by hobby. 
 
-Most of my internships have been backend-focused, working with **Apache Flink**, **Java**, and **PostgreSQL** — lots of data flow stuff.  But I also just enjoy building complete solutions from start to finish.  As you can see from my repos, I've got a real love for frontend design too.
+Most of my internships have been backend-focused, and most recently I've been working with **Apache Flink**, **Java**, and **PostgreSQL** — lots of data flow stuff.  But I also just enjoy building complete solutions from start to finish.  As you can see from my repos, I've got a real love for frontend design too.
 
 ---
 
